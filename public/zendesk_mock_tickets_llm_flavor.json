@@ -1,0 +1,2585 @@
+{
+  "tickets": [
+    {
+      "subject": "Account locked after too many tries ASAP",
+      "requester": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@inboxhub.com"
+      },
+      "created_at": "2025-06-27T12:09:36Z",
+      "comment": {
+        "body": "2025-06-27T12:09:36Z — Marcus Lee [requester]: Locked out aftre multiple attmepts. Can you unlock my account? 🙏\n2025-06-27T14:23:36Z — Andre Carvalho [agent]: Hey Marcus, I can take care of this. I updated your 2FA to email for now; you can switch back to SMS once you're in Settings > Security. I'm here if you need more help. ⭐",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Locked out aftre multiple attmepts. Can you unlock my account? 🙏",
+          "created_at": "2025-06-27T12:09:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Andre Carvalho"
+          },
+          "public": true,
+          "body": "Hey Marcus, I can take care of this. I updated your 2FA to email for now; you can switch back to SMS once you're in Settings > Security. I'm here if you need more help. ⭐",
+          "created_at": "2025-06-27T14:23:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Return request for SKU-HOOD-099 from ORD-2025-2002 😬",
+      "requester": {
+        "name": "Lucas Ferreira",
+        "email": "lucas.ferreira@gmail.com"
+      },
+      "created_at": "2025-08-03T08:51:36Z",
+      "comment": {
+        "body": "2025-08-03T08:51:36Z — Lucas Ferreira [requester]: I need to return one item from ORD-2025-2002. How do I get an RMA label? 🙏\n2025-08-03T10:26:36Z — Aria Lopez [agent]: Hello Lucas — happy to help. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. We appreciate your patience. 🤔",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Lucas Ferreira",
+            "email": "lucas.ferreira@gmail.com"
+          },
+          "public": true,
+          "body": "I need to return one item from ORD-2025-2002. How do I get an RMA label? 🙏",
+          "created_at": "2025-08-03T08:51:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": true,
+          "body": "Hello Lucas — happy to help. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. We appreciate your patience. 🤔",
+          "created_at": "2025-08-03T10:26:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "2FA codes not arriving",
+      "requester": {
+        "name": "Noah Davis",
+        "email": "noah.davis@fastmail.com"
+      },
+      "created_at": "2025-06-27T05:54:36Z",
+      "comment": {
+        "body": "2025-06-27T05:54:36Z — Noah Davis [requester]: I reset my password but it keeps looping me back to reset again. Stuck. 👍\n2025-06-27T07:50:36Z — Diego Costa [agent]: Hey Noah, I can take care of this. I updated your 2FA to email for now; you can switch back to SMS once you're in Settings > Security. I'm here if you need more help. 🙂\n2025-06-27T08:55:36Z — Noah Davis [requester]: That works for me. 🙏",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Noah Davis",
+            "email": "noah.davis@fastmail.com"
+          },
+          "public": true,
+          "body": "I reset my password but it keeps looping me back to reset again. Stuck. 👍",
+          "created_at": "2025-06-27T05:54:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hey Noah, I can take care of this. I updated your 2FA to email for now; you can switch back to SMS once you're in Settings > Security. I'm here if you need more help. 🙂",
+          "created_at": "2025-06-27T07:50:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Noah Davis",
+            "email": "noah.davis@fastmail.com"
+          },
+          "public": true,
+          "body": "That works for me. 🙏",
+          "created_at": "2025-06-27T08:55:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Start a return: ORD-2025-2004",
+      "requester": {
+        "name": "Liam Chen",
+        "email": "liam.chen@example.net"
+      },
+      "created_at": "2025-06-17T22:31:36Z",
+      "comment": {
+        "body": "2025-06-17T22:31:36Z — Liam Chen [requester]: Got SKU-JKT-305 from ORD-2025-2004. Too small — can I swap sizes? 🤔\n2025-06-17T23:10:36Z — Diego Costa [agent]: Hello Liam — happy to help. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. We appreciate your patience. 😅\n2025-06-17T23:28:36Z — Liam Chen [requester]: Valeu demais. 👍\n2025-06-18T00:08:36Z — Aria Lopez [agent]: Hello Liam — happy to help. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. Let me know if anything else comes up. 😅\n2025-06-18T02:30:36Z — Liam Chen [requester]: Works. btw I updated my address in my profile too.",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Liam Chen",
+            "email": "liam.chen@example.net"
+          },
+          "public": true,
+          "body": "Got SKU-JKT-305 from ORD-2025-2004. Too small — can I swap sizes? 🤔",
+          "created_at": "2025-06-17T22:31:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hello Liam — happy to help. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. We appreciate your patience. 😅",
+          "created_at": "2025-06-17T23:10:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Liam Chen",
+            "email": "liam.chen@example.net"
+          },
+          "public": true,
+          "body": "Valeu demais. 👍",
+          "created_at": "2025-06-17T23:28:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": true,
+          "body": "Hello Liam — happy to help. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. Let me know if anything else comes up. 😅",
+          "created_at": "2025-06-18T00:08:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Liam Chen",
+            "email": "liam.chen@example.net"
+          },
+          "public": true,
+          "body": "Works. btw I updated my address in my profile too.",
+          "created_at": "2025-06-18T02:30:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Need exchange (size) — ORD-2025-2005",
+      "requester": {
+        "name": "Ethan Brown",
+        "email": "ethan.brown@example.com"
+      },
+      "created_at": "2025-07-31T22:14:36Z",
+      "comment": {
+        "body": "2025-07-31T22:14:36Z — Ethan Brown [requester]: The SKU-SOCK-201 didn't fit right. Prefer refund to original card please (order ORD-2025-2005). 🙏\n2025-08-01T01:31:36Z — Jon Park [agent]: Hi Ethan, thanks for reaching out! I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. Let me know if anything else comes up. 🙏\n2025-08-01T03:21:36Z — Ethan Brown [requester]: Works. btw I updated my address in my profile too.\n2025-08-01T05:54:36Z — Jordan Hayes [agent]: Hey Ethan, I can take care of this. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. We appreciate your patience. 😬",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ethan Brown",
+            "email": "ethan.brown@example.com"
+          },
+          "public": true,
+          "body": "The SKU-SOCK-201 didn't fit right. Prefer refund to original card please (order ORD-2025-2005). 🙏",
+          "created_at": "2025-07-31T22:14:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hi Ethan, thanks for reaching out! I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. Let me know if anything else comes up. 🙏",
+          "created_at": "2025-08-01T01:31:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ethan Brown",
+            "email": "ethan.brown@example.com"
+          },
+          "public": true,
+          "body": "Works. btw I updated my address in my profile too.",
+          "created_at": "2025-08-01T03:21:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jordan Hayes"
+          },
+          "public": true,
+          "body": "Hey Ethan, I can take care of this. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. We appreciate your patience. 😬",
+          "created_at": "2025-08-01T05:54:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Store credit not applied on ORD-2025-2006",
+      "requester": {
+        "name": "Sofia Gonzalez",
+        "email": "sofia.gonzalez@postbox.io"
+      },
+      "created_at": "2025-06-28T03:22:36Z",
+      "comment": {
+        "body": "2025-06-28T03:22:36Z — Sofia Gonzalez [requester]: My payment failed at checkout but my bank shows a hold. Order ORD-2025-2006. 🤔\n2025-06-28T05:27:36Z — Jordan Hayes [agent]: Hey Sofia, I can take care of this. I see the duplicate authorization. The extra hold will drop off automatically in 1–3 business days; you won't be charged twice. Let me know if anything else comes up. 🤔",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "My payment failed at checkout but my bank shows a hold. Order ORD-2025-2006. 🤔",
+          "created_at": "2025-06-28T03:22:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jordan Hayes"
+          },
+          "public": true,
+          "body": "Hey Sofia, I can take care of this. I see the duplicate authorization. The extra hold will drop off automatically in 1–3 business days; you won't be charged twice. Let me know if anything else comes up. 🤔",
+          "created_at": "2025-06-28T05:27:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Damaged item in ORD-2025-2007",
+      "requester": {
+        "name": "Ava Patel",
+        "email": "ava.patel@retailmail.com"
+      },
+      "created_at": "2025-06-25T13:32:36Z",
+      "comment": {
+        "body": "2025-06-25T13:32:36Z — Ava Patel [requester]: The watch face is scratched out of the box. Photos attached. Ordre ORD-2025-2007. 😬\n2025-06-25T13:43:36Z — Helena Martins [agent]: Hi Ava, thanks for reaching out! Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. I'm here if you need more help. 🙂\n2025-06-25T16:47:36Z — Ava Patel [requester]: Understood. Please proceed.\n2025-06-25T20:31:36Z — Helena Martins [agent]: Hello Ava — happy to help. I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. We appreciate your patience. 🤔\n2025-06-25T22:54:36Z — Ava Patel [requester]: Could you also confirm the ETA?\n2025-06-26T01:14:36Z — Aria Lopez [agent]: Hi Ava, thanks for reaching out! I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. Let me know if anything else comes up. 👋",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "The watch face is scratched out of the box. Photos attached. Ordre ORD-2025-2007. 😬",
+          "created_at": "2025-06-25T13:32:36Z",
+          "attachments": [
+            {
+              "file_name": "photo_5586.jpg"
+            }
+          ]
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Helena Martins"
+          },
+          "public": true,
+          "body": "Hi Ava, thanks for reaching out! Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. I'm here if you need more help. 🙂",
+          "created_at": "2025-06-25T13:43:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "Understood. Please proceed.",
+          "created_at": "2025-06-25T16:47:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Helena Martins"
+          },
+          "public": true,
+          "body": "Hello Ava — happy to help. I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. We appreciate your patience. 🤔",
+          "created_at": "2025-06-25T20:31:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "Could you also confirm the ETA?",
+          "created_at": "2025-06-25T22:54:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": true,
+          "body": "Hi Ava, thanks for reaching out! I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. Let me know if anything else comes up. 👋",
+          "created_at": "2025-06-26T01:14:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Add an item to order ORD-2025-2008",
+      "requester": {
+        "name": "Priya Kumar",
+        "email": "priya.kumar@yahoo.com"
+      },
+      "created_at": "2025-08-10T18:11:36Z",
+      "comment": {
+        "body": "2025-08-10T18:11:36Z — Priya Kumar [requester]: Could you add SKU-GLS-210 to ORD-2025-2008 so it's one shipment? 👍\n2025-08-10T21:07:36Z — Lena Fischer [agent]: Hi Priya, thanks for reaching out! Address updated to the new location. You'll get a new confirmation shortly. We appreciate your patience.\n2025-08-10T21:43:36Z — Priya Kumar [requester]: Got it, apperciate the quick reply!",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Priya Kumar",
+            "email": "priya.kumar@yahoo.com"
+          },
+          "public": true,
+          "body": "Could you add SKU-GLS-210 to ORD-2025-2008 so it's one shipment? 👍",
+          "created_at": "2025-08-10T18:11:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Lena Fischer"
+          },
+          "public": true,
+          "body": "Hi Priya, thanks for reaching out! Address updated to the new location. You'll get a new confirmation shortly. We appreciate your patience.",
+          "created_at": "2025-08-10T21:07:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Priya Kumar",
+            "email": "priya.kumar@yahoo.com"
+          },
+          "public": true,
+          "body": "Got it, apperciate the quick reply!",
+          "created_at": "2025-08-10T21:43:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Promo code rejected (FREESHIP)",
+      "requester": {
+        "name": "Sofia Gonzalez",
+        "email": "sofia.gonzalez@postbox.io"
+      },
+      "created_at": "2025-08-01T21:54:36Z",
+      "comment": {
+        "body": "2025-08-01T21:54:36Z — Sofia Gonzalez [requester]: Can you price-match this SKU if another store is lower? SKU-TEE-001 🙂\n2025-08-02T00:15:36Z — Maya Singh [agent]: Hello Sofia — happy to help. Price adjustment approved—I've refunded the $15 difference. You should see it in 3–5 business days. Let me know if anything else comes up. 🤷",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Can you price-match this SKU if another store is lower? SKU-TEE-001 🙂",
+          "created_at": "2025-08-01T21:54:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Maya Singh"
+          },
+          "public": true,
+          "body": "Hello Sofia — happy to help. Price adjustment approved—I've refunded the $15 difference. You should see it in 3–5 business days. Let me know if anything else comes up. 🤷",
+          "created_at": "2025-08-02T00:15:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Need exchange (size) — ORD-2025-2010",
+      "requester": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@inboxhub.com"
+      },
+      "created_at": "2025-06-13T17:47:36Z",
+      "comment": {
+        "body": "2025-06-13T17:47:36Z — Marcus Lee [requester]: I need to return one item from ORD-2025-2010. How do I get an RMA label? 🤔\n2025-06-13T20:10:36Z — Diego Costa [agent]: Hi Marcus, thanks for reaching out! We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. Let me know if anything else comes up. 🤷\n2025-06-13T20:36:36Z — Marcus Lee [requester]: Could you also confirm the ETA?\n2025-06-13T23:53:36Z — Lena Fischer [agent]: Hello Marcus — happy to help. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. I'm here if you need more help. 🤔\n2025-06-14T03:49:36Z — Marcus Lee [requester]: Got it, appreciate the quick reply!\n2025-06-14T07:23:36Z — Andre Carvalho [agent]: Hello Marcus — happy to help. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. I'm here if you need more help.",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "I need to return one item from ORD-2025-2010. How do I get an RMA label? 🤔",
+          "created_at": "2025-06-13T17:47:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hi Marcus, thanks for reaching out! We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. Let me know if anything else comes up. 🤷",
+          "created_at": "2025-06-13T20:10:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Could you also confirm the ETA?",
+          "created_at": "2025-06-13T20:36:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Lena Fischer"
+          },
+          "public": true,
+          "body": "Hello Marcus — happy to help. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. I'm here if you need more help. 🤔",
+          "created_at": "2025-06-13T23:53:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Got it, appreciate the quick reply!",
+          "created_at": "2025-06-14T03:49:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Andre Carvalho"
+          },
+          "public": true,
+          "body": "Hello Marcus — happy to help. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. I'm here if you need more help.",
+          "created_at": "2025-06-14T07:23:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Return request for SKU-TEE-001 from ORD-2025-2011??",
+      "requester": {
+        "name": "Noah Davis",
+        "email": "noah.davis@fastmail.com"
+      },
+      "created_at": "2025-07-31T02:39:36Z",
+      "comment": {
+        "body": "2025-07-31T02:39:36Z — Noah Davis [requester]: The SKU-TEE-001 didn't fit right. Prefer refund to oirginal card please (order ORD-2025-2011). 👋\n2025-07-31T06:11:36Z — Tom Becker [agent]: Hi Noah, thanks for reaching out! I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. Let me know if anything else comes up. 😬\n2025-07-31T08:44:36Z — Noah Davis [requester]: That works for me. 🙏\n2025-07-31T08:59:36Z — Tom Becker [agent]: Hey Noah, I can take care of this. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. We appreciate your patience.\n2025-07-31T10:39:36Z — Noah Davis [requester]: That works for me. 🙏",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Noah Davis",
+            "email": "noah.davis@fastmail.com"
+          },
+          "public": true,
+          "body": "The SKU-TEE-001 didn't fit right. Prefer refund to oirginal card please (order ORD-2025-2011). 👋",
+          "created_at": "2025-07-31T02:39:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Tom Becker"
+          },
+          "public": true,
+          "body": "Hi Noah, thanks for reaching out! I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. Let me know if anything else comes up. 😬",
+          "created_at": "2025-07-31T06:11:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Noah Davis",
+            "email": "noah.davis@fastmail.com"
+          },
+          "public": true,
+          "body": "That works for me. 🙏",
+          "created_at": "2025-07-31T08:44:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Tom Becker"
+          },
+          "public": true,
+          "body": "Hey Noah, I can take care of this. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. We appreciate your patience.",
+          "created_at": "2025-07-31T08:59:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Noah Davis",
+            "email": "noah.davis@fastmail.com"
+          },
+          "public": true,
+          "body": "That works for me. 🙏",
+          "created_at": "2025-07-31T10:39:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Store credit not applied on ORD-2025-2012",
+      "requester": {
+        "name": "Ava Patel",
+        "email": "ava.patel@retailmail.com"
+      },
+      "created_at": "2025-08-03T11:49:36Z",
+      "comment": {
+        "body": "2025-08-03T11:49:36Z — Ava Patel [requester]: used a gift card but it didn't apply on ord-2025-2012.\n2025-08-03T13:52:36Z — Lena Fischer [agent]: Hey Ava, I can take care of this. I see the duplicate authorization. The extra hold will drop off automatically in 1–3 business days; you won't be charged twice. We appreciate your patience. ⭐\n2025-08-03T15:47:36Z — Ava Patel [requester]: Works. btw I updated my address in my profile too.\n2025-08-03T18:27:36Z — Helena Martins [agent]: Hey Ava, I can take care of this. Applied the missing store credit—$25 will appear on your order within the hour. I'm here if you need more help. ⭐\n2025-08-03T20:27:36Z — Aria Lopez [agent (internal)]: [INTERNAL] Opened carrier investigation for ORD-2025-2012. Hold SLA: 48h. If no scan, reship.\n2025-08-03T21:21:36Z — Ava Patel [requester]: Could you also confirm the ETA?",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "used a gift card but it didn't apply on ord-2025-2012.",
+          "created_at": "2025-08-03T11:49:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Lena Fischer"
+          },
+          "public": true,
+          "body": "Hey Ava, I can take care of this. I see the duplicate authorization. The extra hold will drop off automatically in 1–3 business days; you won't be charged twice. We appreciate your patience. ⭐",
+          "created_at": "2025-08-03T13:52:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "Works. btw I updated my address in my profile too.",
+          "created_at": "2025-08-03T15:47:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Helena Martins"
+          },
+          "public": true,
+          "body": "Hey Ava, I can take care of this. Applied the missing store credit—$25 will appear on your order within the hour. I'm here if you need more help. ⭐",
+          "created_at": "2025-08-03T18:27:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": false,
+          "body": "[INTERNAL] Opened carrier investigation for ORD-2025-2012. Hold SLA: 48h. If no scan, reship.",
+          "created_at": "2025-08-03T20:27:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "Could you also confirm the ETA?",
+          "created_at": "2025-08-03T21:21:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Failed payment but charge pending — ORD-2025-2013 ASAP",
+      "requester": {
+        "name": "Olivia Martin",
+        "email": "olivia.martin@mailbox.org"
+      },
+      "created_at": "2025-07-03T09:49:36Z",
+      "comment": {
+        "body": "2025-07-03T09:49:36Z — Olivia Martin [requester]: Used a gift card but it didn't apply on ORD-2025-2013. ⭐\n2025-07-03T11:46:36Z — Tom Becker [agent]: Hey Olivia, I can take care of this. Applied the missing store credit—$25 will appear on your order within the hour. Let me know if anything else comes up.\n2025-07-03T12:31:36Z — Aria Lopez [agent (internal)]: [INTERNAL] High propensity to churn; prioritize first reply < 30m.",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Olivia Martin",
+            "email": "olivia.martin@mailbox.org"
+          },
+          "public": true,
+          "body": "Used a gift card but it didn't apply on ORD-2025-2013. ⭐",
+          "created_at": "2025-07-03T09:49:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Tom Becker"
+          },
+          "public": true,
+          "body": "Hey Olivia, I can take care of this. Applied the missing store credit—$25 will appear on your order within the hour. Let me know if anything else comes up.",
+          "created_at": "2025-07-03T11:46:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": false,
+          "body": "[INTERNAL] High propensity to churn; prioritize first reply < 30m.",
+          "created_at": "2025-07-03T12:31:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Store credit not applied on ORD-2025-2014 urgent",
+      "requester": {
+        "name": "Ava Patel",
+        "email": "ava.patel@retailmail.com"
+      },
+      "created_at": "2025-07-16T21:46:36Z",
+      "comment": {
+        "body": "2025-07-16T21:46:36Z — Ava Patel [requester]: Used a gift card but it didn't apply on ORD-2025-2014. 👋\n2025-07-16T22:58:36Z — Tom Becker [agent]: Hey Ava, I can take care of this. Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience. 👋",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "Used a gift card but it didn't apply on ORD-2025-2014. 👋",
+          "created_at": "2025-07-16T21:46:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Tom Becker"
+          },
+          "public": true,
+          "body": "Hey Ava, I can take care of this. Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience. 👋",
+          "created_at": "2025-07-16T22:58:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Account locked after too many tries ASAP",
+      "requester": {
+        "name": "Mia Robinson",
+        "email": "mia.robinson@proton.me"
+      },
+      "created_at": "2025-07-14T14:20:36Z",
+      "comment": {
+        "body": "2025-07-14T14:20:36Z — Mia Robinson [requester]: I reset my password but it keeps looping me back to reset again. Stuck. 😅\n2025-07-14T16:23:36Z — Maya Singh [agent]: Hey Mia, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. We appreciate your patience. 🤷\n2025-07-14T19:48:36Z — Mia Robinson [requester]: ok, i'll look for the label.",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Mia Robinson",
+            "email": "mia.robinson@proton.me"
+          },
+          "public": true,
+          "body": "I reset my password but it keeps looping me back to reset again. Stuck. 😅",
+          "created_at": "2025-07-14T14:20:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Maya Singh"
+          },
+          "public": true,
+          "body": "Hey Mia, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. We appreciate your patience. 🤷",
+          "created_at": "2025-07-14T16:23:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Mia Robinson",
+            "email": "mia.robinson@proton.me"
+          },
+          "public": true,
+          "body": "ok, i'll look for the label.",
+          "created_at": "2025-07-14T19:48:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Promo code rejected (FREESHIP)",
+      "requester": {
+        "name": "Ethan Brown",
+        "email": "ethan.brown@example.com"
+      },
+      "created_at": "2025-08-02T22:20:36Z",
+      "comment": {
+        "body": "2025-08-02T22:20:36Z — Ethan Brown [requester]: The price dropped $15 within 7 days of purchase (ORD-2025-2016). Do you offer adjustments? ⭐\n2025-08-03T01:12:36Z — Priyanka Rao [agent]: Hello Ethan — happy to help. The promo excludes clearance items, which is why it failed. I added a one-time 10% code to your account as a courtesy. I'm here if you need more help. 🙏\n2025-08-03T04:59:36Z — Ethan Brown [requester]: Ok, I'll look for the label.\n2025-08-03T08:20:36Z — Priyanka Rao [agent]: Hey Ethan, I can take care of this. Price adjustment approved—I've refunded the $15 difference. You should see it in 3–5 business days. I'm here if you need more help. 👋\n2025-08-03T10:17:36Z — Diego Costa [agent (internal)]: [INTERNAL] Fraud check clean. Proceed with manual capture.\n2025-08-03T13:17:36Z — Ethan Brown [requester]: Got it, appreciate the quick reply!",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ethan Brown",
+            "email": "ethan.brown@example.com"
+          },
+          "public": true,
+          "body": "The price dropped $15 within 7 days of purchase (ORD-2025-2016). Do you offer adjustments? ⭐",
+          "created_at": "2025-08-02T22:20:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hello Ethan — happy to help. The promo excludes clearance items, which is why it failed. I added a one-time 10% code to your account as a courtesy. I'm here if you need more help. 🙏",
+          "created_at": "2025-08-03T01:12:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ethan Brown",
+            "email": "ethan.brown@example.com"
+          },
+          "public": true,
+          "body": "Ok, I'll look for the label.",
+          "created_at": "2025-08-03T04:59:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hey Ethan, I can take care of this. Price adjustment approved—I've refunded the $15 difference. You should see it in 3–5 business days. I'm here if you need more help. 👋",
+          "created_at": "2025-08-03T08:20:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": false,
+          "body": "[INTERNAL] Fraud check clean. Proceed with manual capture.",
+          "created_at": "2025-08-03T10:17:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ethan Brown",
+            "email": "ethan.brown@example.com"
+          },
+          "public": true,
+          "body": "Got it, appreciate the quick reply!",
+          "created_at": "2025-08-03T13:17:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Where is order ORD-2025-2017? Tracking stuck",
+      "requester": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@inboxhub.com"
+      },
+      "created_at": "2025-07-22T06:56:36Z",
+      "comment": {
+        "body": "2025-07-22T06:56:36Z — Marcus Lee [requester]: Hi, it's Marcus. My order ORD-2025-2017 shows 1ZKDEK9SMQH4LOML5B but no movement since the weekend. any ETA?\n2025-07-22T08:52:36Z — Tom Becker [agent]: Hello Marcus — happy to help. Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2017. If not found in 48h, we'll reship or refund—your choice. Let me know if anything else comes up. 🤷",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Hi, it's Marcus. My order ORD-2025-2017 shows 1ZKDEK9SMQH4LOML5B but no movement since the weekend. any ETA?",
+          "created_at": "2025-07-22T06:56:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Tom Becker"
+          },
+          "public": true,
+          "body": "Hello Marcus — happy to help. Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2017. If not found in 48h, we'll reship or refund—your choice. Let me know if anything else comes up. 🤷",
+          "created_at": "2025-07-22T08:52:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Add an item to order ORD-2025-2018",
+      "requester": {
+        "name": "Sofia Gonzalez",
+        "email": "sofia.gonzalez@postbox.io"
+      },
+      "created_at": "2025-07-16T19:19:36Z",
+      "comment": {
+        "body": "2025-07-16T19:19:36Z — Sofia Gonzalez [requester]: Could you add SKU-GLS-210 to ORD-20252-018 so it's one shipment?\n2025-07-16T21:16:36Z — Lena Fischer [agent]: Hi Sofia, thanks for reaching out! I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. We appreciate your patience. 🙏\n2025-07-16T22:48:36Z — Sofia Gonzalez [requester]: that works for me. 🙏",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Could you add SKU-GLS-210 to ORD-20252-018 so it's one shipment?",
+          "created_at": "2025-07-16T19:19:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Lena Fischer"
+          },
+          "public": true,
+          "body": "Hi Sofia, thanks for reaching out! I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. We appreciate your patience. 🙏",
+          "created_at": "2025-07-16T21:16:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "that works for me. 🙏",
+          "created_at": "2025-07-16T22:48:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Missing parts — SKU-DRS-512 (ORD-2025-2019)",
+      "requester": {
+        "name": "Lucas Ferreira",
+        "email": "lucas.ferreira@gmail.com"
+      },
+      "created_at": "2025-07-29T08:47:36Z",
+      "comment": {
+        "body": "2025-07-29T08:47:36Z — Lucas Ferreira [requester]: Jacket is missing the detachable hood in ORD-2025-2019. 🙂\n2025-07-29T12:02:36Z — Lena Fischer [agent]: Hi Lucas, thanks for reaching out! Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. I'm here if you need more help. 👋\n2025-07-29T13:48:36Z — Lucas Ferreira [requester]: Works. btw I updated my address in my profile too.\n2025-07-29T16:41:36Z — Andre Carvalho [agent]: Hello Lucas — happy to help. Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. I'm here if you need more help. 👋",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Lucas Ferreira",
+            "email": "lucas.ferreira@gmail.com"
+          },
+          "public": true,
+          "body": "Jacket is missing the detachable hood in ORD-2025-2019. 🙂",
+          "created_at": "2025-07-29T08:47:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Lena Fischer"
+          },
+          "public": true,
+          "body": "Hi Lucas, thanks for reaching out! Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. I'm here if you need more help. 👋",
+          "created_at": "2025-07-29T12:02:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Lucas Ferreira",
+            "email": "lucas.ferreira@gmail.com"
+          },
+          "public": true,
+          "body": "Works. btw I updated my address in my profile too.",
+          "created_at": "2025-07-29T13:48:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Andre Carvalho"
+          },
+          "public": true,
+          "body": "Hello Lucas — happy to help. Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. I'm here if you need more help. 👋",
+          "created_at": "2025-07-29T16:41:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Update address on ORD-2025-2020 pls",
+      "requester": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@inboxhub.com"
+      },
+      "created_at": "2025-06-25T06:03:36Z",
+      "comment": {
+        "body": "2025-06-25T06:03:36Z — Marcus Lee [requester]: Could you add SKU-GLS-210 to ORD-2025-2020 so it's one shipment? 🙏\n2025-06-25T08:56:36Z — Diego Costa [agent]: Hi Marcus, thanks for reaching out! I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. We appreciate your patience. 👍",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Could you add SKU-GLS-210 to ORD-2025-2020 so it's one shipment? 🙏",
+          "created_at": "2025-06-25T06:03:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hi Marcus, thanks for reaching out! I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. We appreciate your patience. 👍",
+          "created_at": "2025-06-25T08:56:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Failed payment but charge pending — ORD-2025-2021",
+      "requester": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@inboxhub.com"
+      },
+      "created_at": "2025-06-27T18:15:36Z",
+      "comment": {
+        "body": "2025-06-27T18:15:36Z — Marcus Lee [requester]: I see two charges for ORD-2025-2021. Can you reverse one?\n2025-06-27T19:19:36Z — Priyanka Rao [agent]: Hello Marcus — happy to help. Applied the missing store credit—$25 will appear on your order within the hour. I'm here if you need more help.",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "I see two charges for ORD-2025-2021. Can you reverse one?",
+          "created_at": "2025-06-27T18:15:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hello Marcus — happy to help. Applied the missing store credit—$25 will appear on your order within the hour. I'm here if you need more help.",
+          "created_at": "2025-06-27T19:19:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Missing parts — SKU-WATCH-888 (ORD-2025-2022)??",
+      "requester": {
+        "name": "Ethan Brown",
+        "email": "ethan.brown@example.com"
+      },
+      "created_at": "2025-06-25T10:01:36Z",
+      "comment": {
+        "body": "2025-06-25T10:01:36Z — Ethan Brown [requester]: Jacket is missing the detachable hood in ORD-2025-2022. 🙂\n2025-06-25T11:14:36Z — Tom Becker [agent]: Hello Ethan — happy to help. I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. I'm here if you need more help. 😬",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ethan Brown",
+            "email": "ethan.brown@example.com"
+          },
+          "public": true,
+          "body": "Jacket is missing the detachable hood in ORD-2025-2022. 🙂",
+          "created_at": "2025-06-25T10:01:36Z",
+          "attachments": [
+            {
+              "file_name": "photo_5766.jpg"
+            }
+          ]
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Tom Becker"
+          },
+          "public": true,
+          "body": "Hello Ethan — happy to help. I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. I'm here if you need more help. 😬",
+          "created_at": "2025-06-25T11:14:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Price match question on SKU-WATCH-888",
+      "requester": {
+        "name": "Carlos Silva",
+        "email": "carlos.silva@gmail.com"
+      },
+      "created_at": "2025-07-11T15:55:36Z",
+      "comment": {
+        "body": "2025-07-11T15:55:36Z — Carlos Silva [requester]: The price dropped $15 within 7 days of purchase (ORD-2025-2023). Do you offer adjustments? 👍\n2025-07-11T17:27:36Z — Maya Singh [agent]: Hello Carlos — happy to help. The promo excludes clearance items, which is why it failed. I added a one-time 10% code to your account as a courtesy. I'm here if you need more help. 🤷",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Carlos Silva",
+            "email": "carlos.silva@gmail.com"
+          },
+          "public": true,
+          "body": "The price dropped $15 within 7 days of purchase (ORD-2025-2023). Do you offer adjustments? 👍",
+          "created_at": "2025-07-11T15:55:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Maya Singh"
+          },
+          "public": true,
+          "body": "Hello Carlos — happy to help. The promo excludes clearance items, which is why it failed. I added a one-time 10% code to your account as a courtesy. I'm here if you need more help. 🤷",
+          "created_at": "2025-07-11T17:27:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Any update on delayed package (ORD-2025-2024)?",
+      "requester": {
+        "name": "Olivia Martin",
+        "email": "olivia.martin@mailbox.org"
+      },
+      "created_at": "2025-08-02T01:06:36Z",
+      "comment": {
+        "body": "2025-08-02T01:06:36Z — Olivia Martin [requester]: hi, it's olivia. my odrer ord-2025-2024 shows 1zyk5go8l0h417hqfk but no movement since the weekend. any eta? 🙂\n2025-08-02T01:42:36Z — Diego Costa [agent]: Hello Olivia — happy to help. I checked ORD-2025-2024. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZYK5GO8L0H417HQFK. Let me know if anything else comes up. 🤷",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Olivia Martin",
+            "email": "olivia.martin@mailbox.org"
+          },
+          "public": true,
+          "body": "hi, it's olivia. my odrer ord-2025-2024 shows 1zyk5go8l0h417hqfk but no movement since the weekend. any eta? 🙂",
+          "created_at": "2025-08-02T01:06:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hello Olivia — happy to help. I checked ORD-2025-2024. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZYK5GO8L0H417HQFK. Let me know if anything else comes up. 🤷",
+          "created_at": "2025-08-02T01:42:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Update address on ORD-2025-2025 🙂",
+      "requester": {
+        "name": "Ava Patel",
+        "email": "ava.patel@retailmail.com"
+      },
+      "created_at": "2025-06-23T00:16:36Z",
+      "comment": {
+        "body": "2025-06-23T00:16:36Z — Ava Patel [requester]: Need to change shipping address for ORD-2025-2025. New: 223 Newbuyr St Apt 5B. 🙏\n2025-06-23T02:19:36Z — Andre Carvalho [agent]: Hi Ava, thanks for reaching out! Address updated to the new location. You'll get a new confirmation shortly. Let me know if anything else comes up. 😬",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "Need to change shipping address for ORD-2025-2025. New: 223 Newbuyr St Apt 5B. 🙏",
+          "created_at": "2025-06-23T00:16:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Andre Carvalho"
+          },
+          "public": true,
+          "body": "Hi Ava, thanks for reaching out! Address updated to the new location. You'll get a new confirmation shortly. Let me know if anything else comes up. 😬",
+          "created_at": "2025-06-23T02:19:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Wrong item shipped for ORD-2025-2026",
+      "requester": {
+        "name": "Emma Johnson",
+        "email": "emma.johnson@outlook.com"
+      },
+      "created_at": "2025-07-12T12:34:36Z",
+      "comment": {
+        "body": "2025-07-12T12:34:36Z — Emma Johnson [requester]: Jacket is missing the detachable hood in ORD-2025-2026. 😬\n2025-07-12T13:46:36Z — Jon Park [agent]: Hi Emma, thanks for reaching out! Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. We appreciate your patience. 🤷",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Emma Johnson",
+            "email": "emma.johnson@outlook.com"
+          },
+          "public": true,
+          "body": "Jacket is missing the detachable hood in ORD-2025-2026. 😬",
+          "created_at": "2025-07-12T12:34:36Z",
+          "attachments": [
+            {
+              "file_name": "photo_5505.jpg"
+            }
+          ]
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hi Emma, thanks for reaching out! Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. We appreciate your patience. 🤷",
+          "created_at": "2025-07-12T13:46:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Cancel ORD-2025-2027 before it ships",
+      "requester": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@inboxhub.com"
+      },
+      "created_at": "2025-06-14T22:13:36Z",
+      "comment": {
+        "body": "2025-06-14T22:13:36Z — Marcus Lee [requester]: Please cancel ORD-2025-2027 before it ships. If not possible, I'll refuse delivery. 🙏\n2025-06-14T22:31:36Z — Priyanka Rao [agent]: Hey Marcus, I can take care of this. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. We appreciate your patience. ⭐",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Please cancel ORD-2025-2027 before it ships. If not possible, I'll refuse delivery. 🙏",
+          "created_at": "2025-06-14T22:13:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hey Marcus, I can take care of this. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. We appreciate your patience. ⭐",
+          "created_at": "2025-06-14T22:31:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Need exchange (size) — ORD-2025-2028 pls",
+      "requester": {
+        "name": "Ava Patel",
+        "email": "ava.patel@retailmail.com"
+      },
+      "created_at": "2025-06-13T11:28:36Z",
+      "comment": {
+        "body": "2025-06-13T11:28:36Z — Ava Patel [requester]: The SKU-TEE-001 didn't fit right. Prefer refund to orgiinal card please (order ORD-2025-2028). 🙂\n2025-06-13T12:03:36Z — Jon Park [agent]: Hello Ava — happy to help. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. I'm here if you need more help. 🤔",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "The SKU-TEE-001 didn't fit right. Prefer refund to orgiinal card please (order ORD-2025-2028). 🙂",
+          "created_at": "2025-06-13T11:28:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hello Ava — happy to help. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. I'm here if you need more help. 🤔",
+          "created_at": "2025-06-13T12:03:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Return request for SKU-SHOE-232 from ORD-2025-2029",
+      "requester": {
+        "name": "Carlos Silva",
+        "email": "carlos.silva@gmail.com"
+      },
+      "created_at": "2025-07-19T11:24:36Z",
+      "comment": {
+        "body": "2025-07-19T11:24:36Z — Carlos Silva [requester]: The SKU-SHOE-232 didn't fit right. Prefer refudn to original card please (order ORD-2025-2029). 👋\n2025-07-19T14:50:36Z — Aria Lopez [agent]: Hi Carlos, thanks for reaching out! We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. I'm here if you need more help. 👍\n2025-07-19T15:15:36Z — Carlos Silva [requester]: Works. btw I updated my address in my profile too.\n2025-07-19T16:28:36Z — Jon Park [agent]: Hi Carlos, thanks for reaching out! We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. We appreciate your patience. 🙏\n2025-07-19T20:08:36Z — Carlos Silva [requester]: Understood. Pelase proceed.\n2025-07-19T23:38:36Z — Andre Carvalho [agent]: Hey Carlos, I can take care of this. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. I'm here if you need more help. 🤔",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Carlos Silva",
+            "email": "carlos.silva@gmail.com"
+          },
+          "public": true,
+          "body": "The SKU-SHOE-232 didn't fit right. Prefer refudn to original card please (order ORD-2025-2029). 👋",
+          "created_at": "2025-07-19T11:24:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": true,
+          "body": "Hi Carlos, thanks for reaching out! We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. I'm here if you need more help. 👍",
+          "created_at": "2025-07-19T14:50:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Carlos Silva",
+            "email": "carlos.silva@gmail.com"
+          },
+          "public": true,
+          "body": "Works. btw I updated my address in my profile too.",
+          "created_at": "2025-07-19T15:15:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hi Carlos, thanks for reaching out! We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. We appreciate your patience. 🙏",
+          "created_at": "2025-07-19T16:28:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Carlos Silva",
+            "email": "carlos.silva@gmail.com"
+          },
+          "public": true,
+          "body": "Understood. Pelase proceed.",
+          "created_at": "2025-07-19T20:08:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Andre Carvalho"
+          },
+          "public": true,
+          "body": "Hey Carlos, I can take care of this. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. I'm here if you need more help. 🤔",
+          "created_at": "2025-07-19T23:38:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Wrong item shipped for ORD-2025-2030 ASAP",
+      "requester": {
+        "name": "Ava Patel",
+        "email": "ava.patel@retailmail.com"
+      },
+      "created_at": "2025-07-28T10:50:36Z",
+      "comment": {
+        "body": "2025-07-28T10:50:36Z — Ava Patel [requester]: The wathc face is scratched out of the box. Photos attached. Order ORD-2025-0230. 👋\n2025-07-28T14:45:36Z — Lena Fischer [agent]: Hey Ava, I can take care of this. Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. Let me know if anything else comes up. 🤔\n2025-07-28T18:41:36Z — Ava Patel [requester]: Thanks, that helps.\n2025-07-28T21:02:36Z — Diego Costa [agent]: Hello Ava — happy to help. I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. I'm here if you need more help. 🤔\n2025-07-28T22:01:36Z — Ava Patel [requester]: Could you also confirm the ETA?",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "The wathc face is scratched out of the box. Photos attached. Order ORD-2025-0230. 👋",
+          "created_at": "2025-07-28T10:50:36Z",
+          "attachments": [
+            {
+              "file_name": "photo_8040.jpg"
+            }
+          ]
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Lena Fischer"
+          },
+          "public": true,
+          "body": "Hey Ava, I can take care of this. Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. Let me know if anything else comes up. 🤔",
+          "created_at": "2025-07-28T14:45:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "Thanks, that helps.",
+          "created_at": "2025-07-28T18:41:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hello Ava — happy to help. I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. I'm here if you need more help. 🤔",
+          "created_at": "2025-07-28T21:02:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "Could you also confirm the ETA?",
+          "created_at": "2025-07-28T22:01:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Price adjustment request for ORD-2025-2031",
+      "requester": {
+        "name": "Ava Patel",
+        "email": "ava.patel@retailmail.com"
+      },
+      "created_at": "2025-07-08T16:21:36Z",
+      "comment": {
+        "body": "2025-07-08T16:21:36Z — Ava Patel [requester]: Tried codes VIP20 and VIP20 — both rejected. First order here. 👍\n2025-07-08T20:09:36Z — Andre Carvalho [agent]: Hi Ava, thanks for reaching out! The promo excludes clearance items, which is why it failed. I added a one-time 10% code to your account as a courtesy. Let me know if anything else comes up. 👍",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "Tried codes VIP20 and VIP20 — both rejected. First order here. 👍",
+          "created_at": "2025-07-08T16:21:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Andre Carvalho"
+          },
+          "public": true,
+          "body": "Hi Ava, thanks for reaching out! The promo excludes clearance items, which is why it failed. I added a one-time 10% code to your account as a courtesy. Let me know if anything else comes up. 👍",
+          "created_at": "2025-07-08T20:09:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Price adjustment request for ORD-2025-2032 urgent",
+      "requester": {
+        "name": "Liam Chen",
+        "email": "liam.chen@example.net"
+      },
+      "created_at": "2025-08-10T14:42:36Z",
+      "comment": {
+        "body": "2025-08-10T14:42:36Z — Liam Chen [requester]: Tried codes FLASH25 and VIP20 — both rejected. First order here. ⭐\n2025-08-10T17:16:36Z — Priyanka Rao [agent]: Hey Liam, I can take care of this. Price adjustment approved—I've refunded the $15 difference. You should see it in 3–5 business days. We appreciate your patience. 👍",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Liam Chen",
+            "email": "liam.chen@example.net"
+          },
+          "public": true,
+          "body": "Tried codes FLASH25 and VIP20 — both rejected. First order here. ⭐",
+          "created_at": "2025-08-10T14:42:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hey Liam, I can take care of this. Price adjustment approved—I've refunded the $15 difference. You should see it in 3–5 business days. We appreciate your patience. 👍",
+          "created_at": "2025-08-10T17:16:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Price match question on SKU-SHOE-401",
+      "requester": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@inboxhub.com"
+      },
+      "created_at": "2025-07-14T23:42:36Z",
+      "comment": {
+        "body": "2025-07-14T23:42:36Z — Marcus Lee [requester]: Can you price-match this SKU if another store is lower? SKU-SHOE-401 😅\n2025-07-15T00:21:36Z — Priyanka Rao [agent]: Hello Marcus — happy to help. The promo excludes clearance items, which is why it failed. I added a one-time 10% code to your account as a courtesy. I'm here if you need more help. ⭐\n2025-07-15T01:24:36Z — Marcus Lee [requester]: worsk. btw i updated my address in my profile too.\n2025-07-15T04:42:36Z — Diego Costa [agent]: Hello Marcus — happy to help. Price adjustment approved—I've refunded the $15 difference. You should see it in 3–5 business days. Let me know if anything else comes up. 😅",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Can you price-match this SKU if another store is lower? SKU-SHOE-401 😅",
+          "created_at": "2025-07-14T23:42:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hello Marcus — happy to help. The promo excludes clearance items, which is why it failed. I added a one-time 10% code to your account as a courtesy. I'm here if you need more help. ⭐",
+          "created_at": "2025-07-15T00:21:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "worsk. btw i updated my address in my profile too.",
+          "created_at": "2025-07-15T01:24:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hello Marcus — happy to help. Price adjustment approved—I've refunded the $15 difference. You should see it in 3–5 business days. Let me know if anything else comes up. 😅",
+          "created_at": "2025-07-15T04:42:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Add an item to order ORD-2025-2034",
+      "requester": {
+        "name": "Ethan Brown",
+        "email": "ethan.brown@example.com"
+      },
+      "created_at": "2025-07-04T02:47:36Z",
+      "comment": {
+        "body": "2025-07-04T02:47:36Z — Ethan Brown [requester]: Need to change shipping address for ORD-2025-2034. New: 223 Newbury St Apt 5B. 🤔\n2025-07-04T04:51:36Z — Aria Lopez [agent]: Hello Ethan — happy to help. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. I'm here if you need more help. 😬\n2025-07-04T07:54:36Z — Ethan Brown [requester]: Could you also confirm the ETA?\n2025-07-04T09:28:36Z — Lena Fischer [agent]: Hello Ethan — happy to help. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. I'm here if you need more help. 🙂",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ethan Brown",
+            "email": "ethan.brown@example.com"
+          },
+          "public": true,
+          "body": "Need to change shipping address for ORD-2025-2034. New: 223 Newbury St Apt 5B. 🤔",
+          "created_at": "2025-07-04T02:47:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": true,
+          "body": "Hello Ethan — happy to help. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. I'm here if you need more help. 😬",
+          "created_at": "2025-07-04T04:51:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ethan Brown",
+            "email": "ethan.brown@example.com"
+          },
+          "public": true,
+          "body": "Could you also confirm the ETA?",
+          "created_at": "2025-07-04T07:54:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Lena Fischer"
+          },
+          "public": true,
+          "body": "Hello Ethan — happy to help. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. I'm here if you need more help. 🙂",
+          "created_at": "2025-07-04T09:28:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Failed payment but charge pending — ORD-2025-2035",
+      "requester": {
+        "name": "Priya Kumar",
+        "email": "priya.kumar@yahoo.com"
+      },
+      "created_at": "2025-06-18T15:17:36Z",
+      "comment": {
+        "body": "2025-06-18T15:17:36Z — Priya Kumar [requester]: used a gift card but it didn't apply on ord-2025-2035. 🤔\n2025-06-18T17:13:36Z — Aria Lopez [agent]: Hello Priya — happy to help. Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience. 👋\n2025-06-18T18:49:36Z — Priya Kumar [requester]: Ok, I'll look for the label.\n2025-06-18T19:25:36Z — Andre Carvalho [agent]: Hi Priya, thanks for reaching out! Applied the missing store credit—$25 will appear on your order within the hour. Let me know if anything else comes up. ⭐\n2025-06-18T21:03:36Z — Priya Kumar [requester]: valeu demais. 👍\n2025-06-19T00:52:36Z — Maya Singh [agent]: Hello Priya — happy to help. Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience. 👋",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Priya Kumar",
+            "email": "priya.kumar@yahoo.com"
+          },
+          "public": true,
+          "body": "used a gift card but it didn't apply on ord-2025-2035. 🤔",
+          "created_at": "2025-06-18T15:17:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": true,
+          "body": "Hello Priya — happy to help. Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience. 👋",
+          "created_at": "2025-06-18T17:13:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Priya Kumar",
+            "email": "priya.kumar@yahoo.com"
+          },
+          "public": true,
+          "body": "Ok, I'll look for the label.",
+          "created_at": "2025-06-18T18:49:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Andre Carvalho"
+          },
+          "public": true,
+          "body": "Hi Priya, thanks for reaching out! Applied the missing store credit—$25 will appear on your order within the hour. Let me know if anything else comes up. ⭐",
+          "created_at": "2025-06-18T19:25:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Priya Kumar",
+            "email": "priya.kumar@yahoo.com"
+          },
+          "public": true,
+          "body": "valeu demais. 👍",
+          "created_at": "2025-06-18T21:03:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Maya Singh"
+          },
+          "public": true,
+          "body": "Hello Priya — happy to help. Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience. 👋",
+          "created_at": "2025-06-19T00:52:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Cancel ORD-2025-2036 before it ships",
+      "requester": {
+        "name": "Sofia Gonzalez",
+        "email": "sofia.gonzalez@postbox.io"
+      },
+      "created_at": "2025-07-16T01:38:36Z",
+      "comment": {
+        "body": "2025-07-16T01:38:36Z — Sofia Gonzalez [requester]: Could you add SKU-GLS2-10 to ORD2-025-2036 so it's one shipment? 🤷\n2025-07-16T02:32:36Z — Priyanka Rao [agent]: Hey Sofia, I can take care of this. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. Let me know if anything else comes up. 👍\n2025-07-16T03:32:36Z — Sofia Gonzalez [requester]: Understood. Please proceed.\n2025-07-16T07:03:36Z — Jon Park [agent]: Hello Sofia — happy to help. Address updated to the new location. You'll get a new confirmation shortly. I'm here if you need more help. 🤔\n2025-07-16T08:09:36Z — Sofia Gonzalez [requester]: Works. btw I updated my address in my profile too.\n2025-07-16T08:25:36Z — Jon Park [agent]: Hey Sofia, I can take care of this. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. Let me know if anything else comes up. ⭐",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Could you add SKU-GLS2-10 to ORD2-025-2036 so it's one shipment? 🤷",
+          "created_at": "2025-07-16T01:38:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hey Sofia, I can take care of this. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. Let me know if anything else comes up. 👍",
+          "created_at": "2025-07-16T02:32:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Understood. Please proceed.",
+          "created_at": "2025-07-16T03:32:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hello Sofia — happy to help. Address updated to the new location. You'll get a new confirmation shortly. I'm here if you need more help. 🤔",
+          "created_at": "2025-07-16T07:03:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Works. btw I updated my address in my profile too.",
+          "created_at": "2025-07-16T08:09:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hey Sofia, I can take care of this. I was able to cancel before fulfillment. A full refund will post to your card within 3–5 business days. Let me know if anything else comes up. ⭐",
+          "created_at": "2025-07-16T08:25:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Start a return: ORD-2025-2037",
+      "requester": {
+        "name": "Noah Davis",
+        "email": "noah.davis@fastmail.com"
+      },
+      "created_at": "2025-07-13T01:08:36Z",
+      "comment": {
+        "body": "2025-07-13T01:08:36Z — Noah Davis [requester]: i need to return one item from ord-2025-2037. how do i get an rma label? 🤷\n2025-07-13T01:26:36Z — Lena Fischer [agent]: Hey Noah, I can take care of this. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. We appreciate your patience. 🤷\n2025-07-13T03:14:36Z — Noah Davis [requester]: Ok, I'll look for the label.\n2025-07-13T03:29:36Z — Jon Park [agent]: Hey Noah, I can take care of this. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. We appreciate your patience. 🙏\n2025-07-13T06:51:36Z — Noah Davis [requester]: Got it, appreciate the quick reply!\n2025-07-13T10:19:36Z — Jon Park [agent]: Hey Noah, I can take care of this. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. Let me know if anything else comes up. 🙏",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Noah Davis",
+            "email": "noah.davis@fastmail.com"
+          },
+          "public": true,
+          "body": "i need to return one item from ord-2025-2037. how do i get an rma label? 🤷",
+          "created_at": "2025-07-13T01:08:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Lena Fischer"
+          },
+          "public": true,
+          "body": "Hey Noah, I can take care of this. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. We appreciate your patience. 🤷",
+          "created_at": "2025-07-13T01:26:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Noah Davis",
+            "email": "noah.davis@fastmail.com"
+          },
+          "public": true,
+          "body": "Ok, I'll look for the label.",
+          "created_at": "2025-07-13T03:14:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hey Noah, I can take care of this. We can refund or exchange. If you'd like a refund, please ship back with the label I'm sending. Refund hits 3–5 business days after receipt. We appreciate your patience. 🙏",
+          "created_at": "2025-07-13T03:29:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Noah Davis",
+            "email": "noah.davis@fastmail.com"
+          },
+          "public": true,
+          "body": "Got it, appreciate the quick reply!",
+          "created_at": "2025-07-13T06:51:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hey Noah, I can take care of this. I've issued a prepaid return label and started an exchange. You'll get an email with the label in a few minutes. Let me know if anything else comes up. 🙏",
+          "created_at": "2025-07-13T10:19:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Where is order ORD-2025-2038? Tracking stuck urgent 🤔",
+      "requester": {
+        "name": "Sofia Gonzalez",
+        "email": "sofia.gonzalez@postbox.io"
+      },
+      "created_at": "2025-07-18T09:01:36Z",
+      "comment": {
+        "body": "2025-07-18T09:01:36Z — Sofia Gonzalez [requester]: Hi, it's Sofia. My order ORD-2025-2038 shows 1ZWP4FH70VTY7L6WCK but no movement since the weekend. any ETA? 👋\n2025-07-18T09:14:36Z — Tom Becker [agent]: Hi Sofia, thanks for reaching out! Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2038. If not found in 48h, we'll reship or refund—your choice. Let me know if anything else comes up. 😬\n2025-07-18T10:16:36Z — Sofia Gonzalez [requester]: Thanks, that hepls.\n2025-07-18T13:29:36Z — Jon Park [agent]: Hey Sofia, I can take care of this. Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2038. If not found in 48h, we'll reship or refund—your choice. Let me know if anything else comes up. ⭐",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Hi, it's Sofia. My order ORD-2025-2038 shows 1ZWP4FH70VTY7L6WCK but no movement since the weekend. any ETA? 👋",
+          "created_at": "2025-07-18T09:01:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Tom Becker"
+          },
+          "public": true,
+          "body": "Hi Sofia, thanks for reaching out! Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2038. If not found in 48h, we'll reship or refund—your choice. Let me know if anything else comes up. 😬",
+          "created_at": "2025-07-18T09:14:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Thanks, that hepls.",
+          "created_at": "2025-07-18T10:16:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hey Sofia, I can take care of this. Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2038. If not found in 48h, we'll reship or refund—your choice. Let me know if anything else comes up. ⭐",
+          "created_at": "2025-07-18T13:29:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Order ORD-2025-2039 shows delivered but nothing here",
+      "requester": {
+        "name": "Mia Robinson",
+        "email": "mia.robinson@proton.me"
+      },
+      "created_at": "2025-06-14T02:31:36Z",
+      "comment": {
+        "body": "2025-06-14T02:31:36Z — Mia Robinson [requester]: tracking 1zucmyici2lkovhtxb says delivered but i don't see the package. checked neighbors + porch. order: ord-2025-2039 🤔\n2025-06-14T04:00:36Z — Andre Carvalho [agent]: Hi Mia, thanks for reaching out! I checked ORD-2025-2039. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZUCMYICI2LKOVHTXB. Let me know if anything else comes up. 😅\n2025-06-14T07:56:36Z — Mia Robinson [requester]: That works for me. 🙏\n2025-06-14T08:41:36Z — Tom Becker [agent]: Hi Mia, thanks for reaching out! Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2039. If not found in 48h, we'll reship or refund—your choice. Let me know if anything else comes up. 👋",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Mia Robinson",
+            "email": "mia.robinson@proton.me"
+          },
+          "public": true,
+          "body": "tracking 1zucmyici2lkovhtxb says delivered but i don't see the package. checked neighbors + porch. order: ord-2025-2039 🤔",
+          "created_at": "2025-06-14T02:31:36Z",
+          "attachments": [
+            {
+              "file_name": "label_96772.pdf"
+            }
+          ]
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Andre Carvalho"
+          },
+          "public": true,
+          "body": "Hi Mia, thanks for reaching out! I checked ORD-2025-2039. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZUCMYICI2LKOVHTXB. Let me know if anything else comes up. 😅",
+          "created_at": "2025-06-14T04:00:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Mia Robinson",
+            "email": "mia.robinson@proton.me"
+          },
+          "public": true,
+          "body": "That works for me. 🙏",
+          "created_at": "2025-06-14T07:56:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Tom Becker"
+          },
+          "public": true,
+          "body": "Hi Mia, thanks for reaching out! Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2039. If not found in 48h, we'll reship or refund—your choice. Let me know if anything else comes up. 👋",
+          "created_at": "2025-06-14T08:41:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Wrong item shipped for ORD-2025-2040",
+      "requester": {
+        "name": "Liam Chen",
+        "email": "liam.chen@example.net"
+      },
+      "created_at": "2025-06-29T20:17:36Z",
+      "comment": {
+        "body": "2025-06-29T20:17:36Z — Liam Chen [requester]: The watch face is scratched out of the box. Photos attached. Order ORD-2025-2040. ⭐\n2025-06-29T23:19:36Z — Tom Becker [agent]: Hey Liam, I can take care of this. I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. I'm here if you need more help. 👍\n2025-06-29T23:32:36Z — Liam Chen [requester]: understood. please proceed.\n2025-06-30T01:03:36Z — Diego Costa [agent]: Hi Liam, thanks for reaching out! Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. Let me know if anything else comes up. 🙂",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Liam Chen",
+            "email": "liam.chen@example.net"
+          },
+          "public": true,
+          "body": "The watch face is scratched out of the box. Photos attached. Order ORD-2025-2040. ⭐",
+          "created_at": "2025-06-29T20:17:36Z",
+          "attachments": [
+            {
+              "file_name": "photo_9523.jpg"
+            }
+          ]
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Tom Becker"
+          },
+          "public": true,
+          "body": "Hey Liam, I can take care of this. I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. I'm here if you need more help. 👍",
+          "created_at": "2025-06-29T23:19:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Liam Chen",
+            "email": "liam.chen@example.net"
+          },
+          "public": true,
+          "body": "understood. please proceed.",
+          "created_at": "2025-06-29T23:32:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hi Liam, thanks for reaching out! Thanks for flagging. I've created a reship with the correct item and a return label for the wrong one. Let me know if anything else comes up. 🙂",
+          "created_at": "2025-06-30T01:03:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Any update on delayed package (ORD-2025-2041)?",
+      "requester": {
+        "name": "Emma Johnson",
+        "email": "emma.johnson@outlook.com"
+      },
+      "created_at": "2025-06-16T14:13:36Z",
+      "comment": {
+        "body": "2025-06-16T14:13:36Z — Emma Johnson [requester]: Hello! label created for days on ORD-2025-2041. Did it actually ship? 👋\n2025-06-16T14:51:36Z — Diego Costa [agent]: Hi Emma, thanks for reaching out! I checked ORD-2025-2041. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZZBKOJN4VNNFA6IQY. I'm here if you need more help. 🤷",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Emma Johnson",
+            "email": "emma.johnson@outlook.com"
+          },
+          "public": true,
+          "body": "Hello! label created for days on ORD-2025-2041. Did it actually ship? 👋",
+          "created_at": "2025-06-16T14:13:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hi Emma, thanks for reaching out! I checked ORD-2025-2041. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZZBKOJN4VNNFA6IQY. I'm here if you need more help. 🤷",
+          "created_at": "2025-06-16T14:51:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Having trouble logging in",
+      "requester": {
+        "name": "Ava Patel",
+        "email": "ava.patel@retailmail.com"
+      },
+      "created_at": "2025-07-09T05:48:36Z",
+      "comment": {
+        "body": "2025-07-09T05:48:36Z — Ava Patel [requester]: I reset my password but it keeps looping me back to reset again. Stuck. 🙂\n2025-07-09T08:40:36Z — Diego Costa [agent]: Hey Ava, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. I'm here if you need more help. 👋",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Ava Patel",
+            "email": "ava.patel@retailmail.com"
+          },
+          "public": true,
+          "body": "I reset my password but it keeps looping me back to reset again. Stuck. 🙂",
+          "created_at": "2025-07-09T05:48:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Diego Costa"
+          },
+          "public": true,
+          "body": "Hey Ava, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. I'm here if you need more help. 👋",
+          "created_at": "2025-07-09T08:40:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Failed payment but charge pending — ORD-2025-2043",
+      "requester": {
+        "name": "Marcus Lee",
+        "email": "marcus.lee@inboxhub.com"
+      },
+      "created_at": "2025-08-05T03:24:36Z",
+      "comment": {
+        "body": "2025-08-05T03:24:36Z — Marcus Lee [requester]: Used a gift card but it didn't apply on ORD-2025-2043. 🤷\n2025-08-05T04:01:36Z — Priyanka Rao [agent]: Hi Marcus, thanks for reaching out! Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience.\n2025-08-05T04:23:36Z — Marcus Lee [requester]: Got it, appreciate the quick reply!\n2025-08-05T07:44:36Z — Helena Martins [agent]: Hey Marcus, I can take care of this. Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience. 😅\n2025-08-05T08:07:36Z — Marcus Lee [requester]: Perfecto, gracias.",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Used a gift card but it didn't apply on ORD-2025-2043. 🤷",
+          "created_at": "2025-08-05T03:24:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hi Marcus, thanks for reaching out! Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience.",
+          "created_at": "2025-08-05T04:01:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Got it, appreciate the quick reply!",
+          "created_at": "2025-08-05T04:23:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Helena Martins"
+          },
+          "public": true,
+          "body": "Hey Marcus, I can take care of this. Applied the missing store credit—$25 will appear on your order within the hour. We appreciate your patience. 😅",
+          "created_at": "2025-08-05T07:44:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Marcus Lee",
+            "email": "marcus.lee@inboxhub.com"
+          },
+          "public": true,
+          "body": "Perfecto, gracias.",
+          "created_at": "2025-08-05T08:07:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Wrong item shipped for ORD-2025-2044",
+      "requester": {
+        "name": "Sofia Gonzalez",
+        "email": "sofia.gonzalez@postbox.io"
+      },
+      "created_at": "2025-08-03T06:51:36Z",
+      "comment": {
+        "body": "2025-08-03T06:51:36Z — Sofia Gonzalez [requester]: Jacket is missing the detachabel hood in ORD-2025-2044. 😬\n2025-08-03T09:55:36Z — Maya Singh [agent]: Hi Sofia, thanks for reaching out! I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. I'm here if you need more help. 😅",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Jacket is missing the detachabel hood in ORD-2025-2044. 😬",
+          "created_at": "2025-08-03T06:51:36Z",
+          "attachments": [
+            {
+              "file_name": "photo_2159.jpg"
+            }
+          ]
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Maya Singh"
+          },
+          "public": true,
+          "body": "Hi Sofia, thanks for reaching out! I’m so sorry about the condition. I can offer a replacement or a refund—whichever you prefer. If replacement, I'll prioritize QC. I'm here if you need more help. 😅",
+          "created_at": "2025-08-03T09:55:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Where is order ORD-2025-2045? Tracking stuck",
+      "requester": {
+        "name": "Sofia Gonzalez",
+        "email": "sofia.gonzalez@postbox.io"
+      },
+      "created_at": "2025-07-10T22:24:36Z",
+      "comment": {
+        "body": "2025-07-10T22:24:36Z — Sofia Gonzalez [requester]: Hello! label created for days on OR-D2025-2045. Did it actually ship? 😬\n2025-07-11T00:49:36Z — Helena Martins [agent]: Hey Sofia, I can take care of this. I checked ORD-2025-2045. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZY4OXDZ1MK4UK9DD7. Let me know if anything else comes up. 🙂\n2025-07-11T02:05:36Z — Sofia Gonzalez [requester]: Understood. Please proceed.\n2025-07-11T02:45:36Z — Jordan Hayes [agent]: Hey Sofia, I can take care of this. I checked ORD-2025-2045. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZY4OXDZ1MK4UK9DD7. I'm here if you need more help.\n2025-07-11T06:07:36Z — Sofia Gonzalez [requester]: Obrigado! Isso resolve pra mim.\n2025-07-11T06:56:36Z — Priyanka Rao [agent]: Hey Sofia, I can take care of this. I checked ORD-2025-2045. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZY4OXDZ1MK4UK9DD7. I'm here if you need more help. 👋",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Hello! label created for days on OR-D2025-2045. Did it actually ship? 😬",
+          "created_at": "2025-07-10T22:24:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Helena Martins"
+          },
+          "public": true,
+          "body": "Hey Sofia, I can take care of this. I checked ORD-2025-2045. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZY4OXDZ1MK4UK9DD7. Let me know if anything else comes up. 🙂",
+          "created_at": "2025-07-11T00:49:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Understood. Please proceed.",
+          "created_at": "2025-07-11T02:05:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jordan Hayes"
+          },
+          "public": true,
+          "body": "Hey Sofia, I can take care of this. I checked ORD-2025-2045. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZY4OXDZ1MK4UK9DD7. I'm here if you need more help.",
+          "created_at": "2025-07-11T02:45:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Obrigado! Isso resolve pra mim.",
+          "created_at": "2025-07-11T06:07:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hey Sofia, I can take care of this. I checked ORD-2025-2045. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZY4OXDZ1MK4UK9DD7. I'm here if you need more help. 👋",
+          "created_at": "2025-07-11T06:56:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Tracking says label created for ORD-2025-2046 👍",
+      "requester": {
+        "name": "Sofia Gonzalez",
+        "email": "sofia.gonzalez@postbox.io"
+      },
+      "created_at": "2025-06-21T10:41:36Z",
+      "comment": {
+        "body": "2025-06-21T10:41:36Z — Sofia Gonzalez [requester]: Tracking 1ZKTTURASNG42F948U says delivered but I don't see the package. Checked neighbors + porch. order: ORD-2025-2046 😬\n2025-06-21T11:27:36Z — Helena Martins [agent]: Hello Sofia — happy to help. I checked ORD-2025-2046. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZKTTURASNG42F948U. I'm here if you need more help. 😅\n2025-06-21T12:09:36Z — Sofia Gonzalez [requester]: Ok, I'll look for the label.\n2025-06-21T14:03:36Z — Jon Park [agent]: Hello Sofia — happy to help. I checked ORD-2025-2046. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZKTTURASNG42F948U. I'm here if you need more help. 🙂\n2025-06-21T17:44:36Z — Sofia Gonzalez [requester]: Ok, I'll look for the label.\n2025-06-21T18:28:36Z — Priyanka Rao [agent]: Hey Sofia, I can take care of this. Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2046. If not found in 48h, we'll reship or refund—your choice. We appreciate your patience. 🙂",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Tracking 1ZKTTURASNG42F948U says delivered but I don't see the package. Checked neighbors + porch. order: ORD-2025-2046 😬",
+          "created_at": "2025-06-21T10:41:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Helena Martins"
+          },
+          "public": true,
+          "body": "Hello Sofia — happy to help. I checked ORD-2025-2046. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZKTTURASNG42F948U. I'm here if you need more help. 😅",
+          "created_at": "2025-06-21T11:27:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Ok, I'll look for the label.",
+          "created_at": "2025-06-21T12:09:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jon Park"
+          },
+          "public": true,
+          "body": "Hello Sofia — happy to help. I checked ORD-2025-2046. Carrier shows a delay at a regional hub. I've escalated and will update you within 24–48h. Tracking: 1ZKTTURASNG42F948U. I'm here if you need more help. 🙂",
+          "created_at": "2025-06-21T14:03:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Sofia Gonzalez",
+            "email": "sofia.gonzalez@postbox.io"
+          },
+          "public": true,
+          "body": "Ok, I'll look for the label.",
+          "created_at": "2025-06-21T17:44:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hey Sofia, I can take care of this. Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2046. If not found in 48h, we'll reship or refund—your choice. We appreciate your patience. 🙂",
+          "created_at": "2025-06-21T18:28:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "2FA codes not arriving",
+      "requester": {
+        "name": "Mia Robinson",
+        "email": "mia.robinson@proton.me"
+      },
+      "created_at": "2025-07-29T21:19:36Z",
+      "comment": {
+        "body": "2025-07-29T21:19:36Z — Mia Robinson [requester]: I reset my password but it keeps looping me back to reset again. Stuck. ⭐\n2025-07-29T23:54:36Z — Jordan Hayes [agent]: Hey Mia, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. Let me know if anything else comes up. 🙏\n2025-07-30T02:54:36Z — Mia Robinson [requester]: That works for me. 🙏",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Mia Robinson",
+            "email": "mia.robinson@proton.me"
+          },
+          "public": true,
+          "body": "I reset my password but it keeps looping me back to reset again. Stuck. ⭐",
+          "created_at": "2025-07-29T21:19:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Jordan Hayes"
+          },
+          "public": true,
+          "body": "Hey Mia, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. Let me know if anything else comes up. 🙏",
+          "created_at": "2025-07-29T23:54:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Mia Robinson",
+            "email": "mia.robinson@proton.me"
+          },
+          "public": true,
+          "body": "That works for me. 🙏",
+          "created_at": "2025-07-30T02:54:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Account locked after too many tries ASAP 👋",
+      "requester": {
+        "name": "Olivia Martin",
+        "email": "olivia.martin@mailbox.org"
+      },
+      "created_at": "2025-07-07T04:50:36Z",
+      "comment": {
+        "body": "2025-07-07T04:50:36Z — Olivia Martin [requester]: Locked out after multiple attempts. Can you ulnock my account? 👋\n2025-07-07T05:52:36Z — Lena Fischer [agent]: Hey Olivia, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. We appreciate your patience. 🙏",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Olivia Martin",
+            "email": "olivia.martin@mailbox.org"
+          },
+          "public": true,
+          "body": "Locked out after multiple attempts. Can you ulnock my account? 👋",
+          "created_at": "2025-07-07T04:50:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Lena Fischer"
+          },
+          "public": true,
+          "body": "Hey Olivia, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. We appreciate your patience. 🙏",
+          "created_at": "2025-07-07T05:52:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Account locked after too many tries ASAP",
+      "requester": {
+        "name": "Olivia Martin",
+        "email": "olivia.martin@mailbox.org"
+      },
+      "created_at": "2025-06-14T15:50:36Z",
+      "comment": {
+        "body": "2025-06-14T15:50:36Z — Olivia Martin [requester]: I reset my password but it keeps looping me back to reset again. Stuck. 😅\n2025-06-14T16:51:36Z — Aria Lopez [agent]: Hi Olivia, thanks for reaching out! I've unlocked your account and sent a fresh password reset link. Please try again in a private window. I'm here if you need more help. 😬\n2025-06-14T18:37:36Z — Olivia Martin [requester]: Thanks, that helps.\n2025-06-14T19:52:36Z — Aria Lopez [agent]: Hey Olivia, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. I'm here if you need more help. 🙂\n2025-06-14T21:25:36Z — Olivia Martin [requester]: Works. btw I updated my address in my profile too.",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Olivia Martin",
+            "email": "olivia.martin@mailbox.org"
+          },
+          "public": true,
+          "body": "I reset my password but it keeps looping me back to reset again. Stuck. 😅",
+          "created_at": "2025-06-14T15:50:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": true,
+          "body": "Hi Olivia, thanks for reaching out! I've unlocked your account and sent a fresh password reset link. Please try again in a private window. I'm here if you need more help. 😬",
+          "created_at": "2025-06-14T16:51:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Olivia Martin",
+            "email": "olivia.martin@mailbox.org"
+          },
+          "public": true,
+          "body": "Thanks, that helps.",
+          "created_at": "2025-06-14T18:37:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Aria Lopez"
+          },
+          "public": true,
+          "body": "Hey Olivia, I can take care of this. I've unlocked your account and sent a fresh password reset link. Please try again in a private window. I'm here if you need more help. 🙂",
+          "created_at": "2025-06-14T19:52:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Olivia Martin",
+            "email": "olivia.martin@mailbox.org"
+          },
+          "public": true,
+          "body": "Works. btw I updated my address in my profile too.",
+          "created_at": "2025-06-14T21:25:36Z",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "subject": "Order ORD-2025-2050 shows delivered but nothing here??",
+      "requester": {
+        "name": "Liam Chen",
+        "email": "liam.chen@example.net"
+      },
+      "created_at": "2025-08-06T05:07:36Z",
+      "comment": {
+        "body": "2025-08-06T05:07:36Z — Liam Chen [requester]: Hello! label created for days on ORD-2025-2050. Did it actually ship? 😅\n2025-08-06T08:56:36Z — Priyanka Rao [agent]: Hello Liam — happy to help. Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2050. If not found in 48h, we'll reship or refund—your choice. I'm here if you need more help.\n2025-08-06T11:50:36Z — Liam Chen [requester]: That works for me. 🙏",
+        "public": true
+      },
+      "comments": [
+        {
+          "author": {
+            "role": "requester",
+            "name": "Liam Chen",
+            "email": "liam.chen@example.net"
+          },
+          "public": true,
+          "body": "Hello! label created for days on ORD-2025-2050. Did it actually ship? 😅",
+          "created_at": "2025-08-06T05:07:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "agent",
+            "name": "Priyanka Rao"
+          },
+          "public": true,
+          "body": "Hello Liam — happy to help. Sorry about the trouble. I filed a trace with the carrier for ORD-2025-2050. If not found in 48h, we'll reship or refund—your choice. I'm here if you need more help.",
+          "created_at": "2025-08-06T08:56:36Z",
+          "attachments": []
+        },
+        {
+          "author": {
+            "role": "requester",
+            "name": "Liam Chen",
+            "email": "liam.chen@example.net"
+          },
+          "public": true,
+          "body": "That works for me. 🙏",
+          "created_at": "2025-08-06T11:50:36Z",
+          "attachments": []
+        }
+      ]
+    }
+  ]
+}
