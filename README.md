@@ -1,4 +1,4 @@
-:test_tube: DJunior Full‑Stack Developer | Picnic
+:test_tube: Junior Full‑Stack Developer | Picnic
 
 :desktop_computer: Lucas Spartacus
 
@@ -33,4 +33,4 @@ Acesse seu navegador e navegue até http://localhost:5173/ para usar o aplicativ
 
 Essa aplicação mostra um grafico de barras separados por categorias e abixo todos os tickets além de um input de buscador que deixa separrar por categorias e buscar apartir da descrição ou nome do ticket alem de um radio box para mostrar todos os tickets ou somente os escalaveis.
 
-<img width="646" height="829" alt="Image" src="https://github.com/user-attachments/assets/695c93cb-da8b-4f35-9c2a-2f71dbbb4737" />
+<img width="751" height="970" alt="Image" src="https://github.com/user-attachments/assets/0a6a770d-d188-4138-b2c0-318414d3430e" />
