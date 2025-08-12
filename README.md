@@ -1,12 +1,36 @@
-# React + Vite
+:test_tube: DJunior Full‑Stack Developer | Picnic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+:desktop_computer: Lucas Spartacus
 
-Currently, two official plugins are available:
+### Estrutura do Projeto:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Backend</h1>
 
-## Expanding the ESLint configuration
+- JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h1>Frontend</h1>
+
+- React
+- Vite
+- Tailwind css
+
+### Executar Projeto:
+
+Primeiro, execute o seguinte comando no prompt para clonar o repositório do GitHub:
+
+```
+git clone https://github.com/lucasspartacus/Picnic.git
+```
+Entre na pasta suporte-frontend. Em seguida, execute o comando abaixo para instalar todas as dependências:
+```
+npm install
+```
+Em seguida, execute o código abaixo para executar o projeto:
+```
+npm run devx
+```
+Acesse seu navegador e navegue até http://localhost:5173/ para usar o aplicativo web.
+
+Essa aplicação mostra um grafico de barras separados por categorias e abixo todos os tickets além de um input de buscador que deixa separrar por categorias e buscar apartir da descrição ou nome do ticket alem de um radio box para mostrar todos os tickets ou somente os escalaveis.
+
+<img width="646" height="829" alt="Image" src="https://github.com/user-attachments/assets/695c93cb-da8b-4f35-9c2a-2f71dbbb4737" />
